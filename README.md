@@ -4,7 +4,11 @@ You can use the [editor on GitHub](https://github.com/yubai90/yubai90.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-My CV is <a href="CV_Yu_Bai.pdf"> here </a>
+My CV is <a href="CV_Yu_Bai.pdf"> here </a>. 
+
+Contact: Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin)
+         Via Röntgen n. 1, Milan 20136 (Italy)
+         <a href="mailto:yu.bai@unibocconi.it">yu.bai@unibocconi.it</a>
 
 ## Working papers
       
