@@ -6,7 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 My CV is <a href="CV_Yu_Bai.pdf"> here </a>. 
 
-Contact: Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin)
+Contact:  <b>Address: </b>
+						</p>
+						<p style="margin-left: .6cm; margin-bottom:-.1cm">
+						    121 Huaxiang Zhangjia Crossing <br/>
+						    Fengtai, Beijing 100070, PR China <b>
+						</p>
+
+Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin)
          
          Via Röntgen n. 1, Milan 20136 (Italy)
          
