@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 My CV is <a href="CV_Yu_Bai.pdf"> here </a>. 
 
 Contact:  121 Huaxiang Zhangjia Crossing <br/>
-	  Fengtai, Beijing 100070, PR China <b>
+	  <b> Fengtai, Beijing 100070, PR China <b>
 	  </p>
 
 Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin)
