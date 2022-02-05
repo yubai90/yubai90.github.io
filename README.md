@@ -24,7 +24,7 @@ Contact: Centre for Applied Research on International Markets, Money Banking and
       <a> [Published version] </a> 
       <a> [Replication files] </a> 
       
-2.  A Monte Carlo comparison of GMM and QMLE estimators for short dynamic panel data models with spatial errors, joint with S. Zhou and Z. Fan. <b> Journal of Statistical Computation and Simulation</b> 88 (2), 376-409.
+2.  A Monte Carlo comparison of GMM and QMLE estimators for short dynamic panel data models with spatial errors, joint with S. Zhou and Z. Fan. <b> Journal of Statistical Computation and Simulation</b> 88 (2), 376-409, 2018.
 
       <a href="papers/2018-JSCS-SDPM.pdf"> :arrow_down_small: [Published version] </a>
    
