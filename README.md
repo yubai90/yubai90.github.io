@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Working papers
 
-1.  Macroeconomic forecasting in a multi-country context, with <a href="https://www.qmul.ac.uk/sef/staff/andreacarriero.html/" style="color: darkblue"> A. Carriero</a>, <a href="https://www.clevelandfed.org/our-research/economists/todd-e-clark.aspx" style="color: darkblue"> T. E. Clark</a> and <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: darkblue"> M. Marcellino</a>.  <b> &nbsp &nbsp Journal of Applied Econometrics</b>, *forthcoming*.
+1.  Macroeconomic forecasting in a multi-country context, with <a href="https://www.qmul.ac.uk/sef/staff/andreacarriero.html/" style="color: darkblue"> A. Carriero</a>, <a href="https://www.clevelandfed.org/our-research/economists/todd-e-clark.aspx" style="color: darkblue"> T. E. Clark</a> and <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: darkblue"> M. Marcellino</a>.  <b> Journal of Applied Econometrics</b>, *forthcoming*.
 
 
 
