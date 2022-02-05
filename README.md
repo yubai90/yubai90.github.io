@@ -20,7 +20,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
       
 2. A Monte Carlo comparison of GMM and QMLE estimators for short dynamic panel data models with spatial errors, joint with S. Zhou and Z. Fan. <b> Journal of Statistical Computation and Simulation</b> 88 (2), 376-409.
 
- <a href="papers/2018-JSCS-SDPM.pdf"> [Published version] </a>
+      <a href="papers/2018-JSCS-SDPM.pdf"> [Published version] </a>
    
    
    
