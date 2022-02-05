@@ -30,4 +30,4 @@ Contact: Centre for Applied Research on International Markets, Money Banking and
    
 ## Current teaching
 
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   Econometrics III, 1st year PhD, since spring 2020
+&nbsp;   &nbsp;   &nbsp;   Econometrics III, 1st year PhD, since spring 2020
