@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/yubai90/yubai90.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+My CV is <a href="CV_Yu_Bai.pdf"> here </a>
+
 ## Working papers
       
-1.  Estimation and inference in large heterogenous panels with stochastic time-varying coefficients, joint with <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: darkblue"> M. Marcellino</a> and <a href="https://www.kcl.ac.uk/people/george-kapetanios" style="color: darkblue"> G. Kapetanios</a>.
+1.  Estimation and inference in large heterogenous panels with stochastic time-varying coefficients, joint with <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: blue"> M. Marcellino</a> and <a href="https://www.kcl.ac.uk/people/george-kapetanios" style="color: blue"> G. Kapetanios</a>.
 
       <a href="papers/BKM_V2.pdf"> [WP version] </a>
 
@@ -22,6 +24,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
       <a href="papers/2018-JSCS-SDPM.pdf"> [Published version] </a>
    
-## Teaching
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Current teaching
+    Econometrics III (1st PhD, since 2020)
