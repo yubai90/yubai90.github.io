@@ -14,7 +14,7 @@ Contact: Centre for Applied Research on International Markets, Money Banking and
       
 1.  Estimation and inference in large heterogenous panels with stochastic time-varying coefficients, joint with <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: blue"> M. Marcellino</a> and <a href="https://www.kcl.ac.uk/people/george-kapetanios" style="color: blue"> G. Kapetanios</a>.
 
-      <a href="papers/BKM_V2.pdf"> :arrow_down_small: </a> ![GitHub Light]
+      <a href="papers/BKM_V2.pdf"> :arrow_down_small: </a> ![GitHub Light](123)
 
 ## Publications
 
