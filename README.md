@@ -6,11 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Working papers
 
-1.  Macroeconomic forecasting in a multi-country context, with <a href="https://www.qmul.ac.uk/sef/staff/andreacarriero.html/" style="color: darkblue"> A. Carriero</a>, <a href="https://www.clevelandfed.org/our-research/economists/todd-e-clark.aspx" style="color: darkblue"> T. E. Clark</a> and <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: darkblue"> M. Marcellino</a>.  <b> Journal of Applied Econometrics</b>, *forthcoming*.
+1.  Macroeconomic forecasting in a multi-country context, with <a href="https://www.qmul.ac.uk/sef/staff/andreacarriero.html/" style="color: blue"> A. Carriero</a>, <a href="https://www.clevelandfed.org/our-research/economists/todd-e-clark.aspx" style="color: blue"> T. E. Clark</a> and <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: blue"> M. Marcellino</a>.  <b> Journal of Applied Econometrics</b>, *forthcoming*.
 
       <a href="papers/wp2202.pdf"> [WP version] </a>
-      <a href=" "> [Published version] </a> 
-      <a href=" "> [Replication files] </a> 
+      <a> [Published version] </a> 
+      <a> [Replication files] </a> 
       
 2. Estimation and inference in large heterogenous panels with stochastic time-varying coefficients, with <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: darkblue"> M. Marcellino</a> and <a href="https://www.kcl.ac.uk/people/george-kapetanios" style="color: darkblue"> G. Kapetanios</a>.
 
