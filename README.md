@@ -8,13 +8,7 @@ My CV is <a href="CV_Yu_Bai.pdf"> here </a>.
 
 Contact:  121 Huaxiang Zhangjia Crossing <br/>
 	  Fengtai, Beijing 100070, PR China <br/>
-	  </p>
-
-Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin)
-         
-         Via Röntgen n. 1, Milan 20136 (Italy)
-         
-         <a href="mailto:yu.bai@unibocconi.it">yu.bai@unibocconi.it</a>
+          <a href="mailto:yu.bai@unibocconi.it">yu.bai@unibocconi.it</a>
 
 ## Working papers
       
