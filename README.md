@@ -8,7 +8,7 @@ My CV is <a href="CV_Yu_Bai.pdf"> here </a>.
 
 Contact: Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin), Via Röntgen n.1, Milan 20136 
          
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;     <a href="mailto:yu.bai@unibocconi.it"> :e-mail:</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;        <a href="mailto:yu.bai@unibocconi.it"> :e-mail:</a>
 
 ## Working papers
       
