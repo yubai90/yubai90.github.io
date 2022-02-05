@@ -11,6 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <a href="papers/wp2202.pdf"> [WP version] </a>
       <a href=" "> [Published version] </a> 
       <a href=" "> [Replication files] </a> 
+      
+2. Estimation and inference in large heterogenous panels with stochastic time-varying coefficients, with <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: darkblue"> M. Marcellino</a> and <a href="https://www.kcl.ac.uk/people/george-kapetanios" style="color: darkblue"> G. Kapetanios</a>.
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
