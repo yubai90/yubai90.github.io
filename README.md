@@ -1,8 +1,8 @@
 # Hello and Welcome!
 
-You can use the [editor on GitHub](https://github.com/yubai90/yubai90.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Yu Bai. I am currently a Research Fellow at Barefin Carefin, Bocconi University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests are in econometrics, with a particular interest in time series econometrics and related applciations.
 
 My CV is <a href="CV_Yu_Bai.pdf"> here </a>. 
 
