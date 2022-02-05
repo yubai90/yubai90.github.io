@@ -2,7 +2,7 @@ My name is Yu Bai. I am currently a Research Fellow at Barefin Carefin, Bocconi 
 
 My research interests are in econometrics, with a particular interest in time series econometrics and related applciations.
 
-My CV is <a href="CV_Yu_Bai.pdf"> here </a>. 
+My CV is <a href="CV_Yu_Bai.pdf"> here. 
 
 Contact: Centre for Applied Research on International Markets, Money Banking and Regulation, Via Röntgen n.1, Milan 20136 
          
