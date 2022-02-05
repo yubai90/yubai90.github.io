@@ -6,10 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 My CV is <a href="CV_Yu_Bai.pdf"> here </a>. 
 
-Contact: The action of every agent <br/>
-&nbsp;  &nbsp;          into the world         
-starts <br />
-  from their physical selves. <br />
+Contact: Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin), Via Röntgen n.1, Milan 20136 (ITALY)
           <a href="mailto:yu.bai@unibocconi.it">yu.bai@unibocconi.it</a>
 
 ## Working papers
