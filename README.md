@@ -26,4 +26,4 @@ My CV is <a href="CV_Yu_Bai.pdf"> here </a>
    
 ## Current teaching
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Econometrics III, 1st year PhD, since spring 2020
