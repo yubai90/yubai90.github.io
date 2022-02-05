@@ -6,7 +6,7 @@ My research interests are in econometrics, with a particular interest in time se
 
 My CV is <a href="CV_Yu_Bai.pdf"> here </a>. 
 
-Contact: Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin), Via Röntgen n.1, Milan 20136 
+Contact: Centre for Applied Research on International Markets, Money Banking and Regulation (Baffi Carefin), Via Röntgen n.1, Milan 20136  :arrow_down_small:
          
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;   <a href="mailto:yu.bai@unibocconi.it"> :e-mail:</a>
 
