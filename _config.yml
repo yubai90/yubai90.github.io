@@ -1,4 +1,5 @@
 theme: jekyll-theme-modernist
 title: Yu Bai
 description: Research fellow, Bocconi University, BAFFI CAREFIN
-- jemoji
+plugins:
+  - jemoji
