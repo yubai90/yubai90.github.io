@@ -26,4 +26,4 @@ My CV is <a href="CV_Yu_Bai.pdf"> here </a>
    
 ## Current teaching
 
-    Econometrics III (1st PhD, since 2020)
+     Econometrics III (1st PhD, since 2020)
