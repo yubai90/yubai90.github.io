@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 My CV is <a href="CV_Yu_Bai.pdf"> here </a>. 
 
 Contact: The action of every agent <br/>
-        into the world          <br/> 
+        into the world         
 starts <br />
   from their physical selves. <br />
           <a href="mailto:yu.bai@unibocconi.it">yu.bai@unibocconi.it</a>
