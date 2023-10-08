@@ -1,4 +1,4 @@
-My name is Yu Bai. I am currently a Research Fellow at Department of Econometrics and Business Statistics, Monash University.  ![alt text](a href="1T7A1379.jpg")
+My name is Yu Bai. I am currently a Research Fellow at Department of Econometrics and Business Statistics, Monash University.  ![alt text](http://url/to/1T7A1379.jpg)
 
 My research interests are in time-varying parameter models, Bayesian Econometrics and forecasting.
 
