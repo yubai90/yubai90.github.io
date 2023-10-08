@@ -1,4 +1,4 @@
-My name is Yu Bai. I am currently a Research Fellow at Barefin Carefin, Bocconi University.
+My name is Yu Bai. I am currently a Research Fellow at Barefin Carefin, Bocconi University. ![alt text](http://url/to/img.png)
 
 My research interests are in econometrics, with a particular interest in time series econometrics and related applciations.
 
