@@ -6,7 +6,7 @@ My CV is <a href="CV_Yu_Bai.pdf"> here.
 
 Contact: Department of Econometrics and Business Statistics, Monash University, 900 Dandenong Rd, Caulfield East, VIC 3145, Australia.
          
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;   <a href="mailto:yu.bai@unibocconi.it"> :e-mail:</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;   <a href="mailto:yu.bai1@monash.edu"> :e-mail:</a>
 
 ## Publications
 
