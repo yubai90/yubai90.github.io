@@ -17,7 +17,7 @@ Contact: Department of Econometrics and Business Statistics, Monash University, 
 ## Publications
 1.  Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors, joint with <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: blue"> M. Marcellino</a> and <a href="https://www.kcl.ac.uk/people/george-kapetanios" style="color: blue"> G. Kapetanios</a>. **Econometrics and Statistics**, *forthcoming*.
 
-      <a href="papers/wp 13-2023.pdf"> :arrow_down_small: [WP version] </a> 
+      <a href="papers/wp13-2023.pdf"> :arrow_down_small: [WP version] </a> 
       :arrow_down_small: [[Published version]](https://www.sciencedirect.com/science/article/pii/S2452306223000412) 
 
 2.  Macroeconomic forecasting in a multi-country context, joint with <a href="https://www.qmul.ac.uk/sef/staff/andreacarriero.html/" style="color: blue"> A. Carriero</a>, <a href="https://www.clevelandfed.org/our-research/economists/todd-e-clark.aspx" style="color: blue"> T. E. Clark</a> and <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: blue"> M. Marcellino</a>.  **Journal of Applied Econometrics**, 37(6), 1230-1255, 2022.
