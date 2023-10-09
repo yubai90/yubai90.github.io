@@ -8,6 +8,12 @@ Contact: Department of Econometrics and Business Statistics, Monash University, 
          
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;   <a href="mailto:yu.bai1@monash.edu"> :e-mail:</a>
 
+
+## Working papers
+      
+1.  Optimal forecasting under parameter instability, 2023
+2.  Local GMM estimation for nonparametric time-varying coefficient moment condition models, 2023.
+
 ## Publications
 1.  Mean group instrumental variable estimation of time-varying large heterogeneous panels with endogenous regressors, joint with <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: blue"> M. Marcellino</a> and <a href="https://www.kcl.ac.uk/people/george-kapetanios" style="color: blue"> G. Kapetanios</a>. **Econometrics and Statistics**, *forthcoming*.
  
@@ -23,11 +29,6 @@ Contact: Department of Econometrics and Business Statistics, Monash University, 
 
       <a href="papers/2018-JSCS-SDPM.pdf"> :arrow_down_small: [Published version] </a>
 
-## Working papers
-      
-1.  Estimation and inference in large heterogenous panels with stochastic time-varying coefficients, joint with <a href="https://didattica.unibocconi.eu/mypage/index.php?IdUte=49257&cognome=MARCELLINO&nome=MASSIMILIANO&urlBackMy=" style="color: blue"> M. Marcellino</a> and <a href="https://www.kcl.ac.uk/people/george-kapetanios" style="color: blue"> G. Kapetanios</a>.
-
-      <a href="papers/BKM_V2.pdf"> :arrow_down_small: [WP version] </a> 
 
    
 ## Current teaching
