@@ -16,7 +16,7 @@ Contact: Department of Econometrics and Business Statistics, Monash University, 
 1.  Optimal forecasting under parameter instability, 2023
 
 
-      * Interesting in knowing when to use rolling window estimator and how? Please click here.
+       Interesting in knowing when to use rolling window estimator and how? Please click here.
 
    
 2.  Local GMM estimation for nonparametric time-varying coefficient moment condition models, 2023.
