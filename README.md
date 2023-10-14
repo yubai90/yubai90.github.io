@@ -4,7 +4,7 @@ I am on the 2023-2024 job market.
 
 My research interests are Econometrics, Forecasting, Applied Macroeconomics and Financial Econometrics.
 
-My CV is <a href="CV_Yu_Bai.pdf"> here. 
+My CV is <a href="C.V. Bai_2023.pdf"> here. 
 
 Contact: Department of Econometrics and Business Statistics, Monash University, 900 Dandenong Rd, Caulfield East, VIC 3145, Australia.
          
