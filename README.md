@@ -13,12 +13,8 @@ Contact: Department of Econometrics and Business Statistics, Monash University, 
 
 ## Working papers
       
-1.  Optimal forecasting under parameter instability, 2023
-
-
-     :alert12Regular: Interesting in knowing when to use rolling window estimator and how? Please click here.
-
-   
+1.  Optimal forecasting under parameter instability, 2023. (*Job Market Paper*)
+    
 2.  Local GMM estimation for nonparametric time-varying coefficient moment condition models, 2023.
 
 ## Publications
